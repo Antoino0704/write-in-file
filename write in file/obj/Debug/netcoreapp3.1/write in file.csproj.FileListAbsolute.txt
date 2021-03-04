@@ -1,0 +1,13 @@
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.exe
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.deps.json
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.dll
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\bin\Debug\netcoreapp3.1\write in file.pdb
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.dll
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.pdb
+C:\Users\asus\OneDrive\Desktop\Programmi C#\write in file\obj\Debug\netcoreapp3.1\write in file.genruntimeconfig.cache
